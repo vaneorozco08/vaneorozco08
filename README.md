@@ -14,6 +14,7 @@ Transicioné del mundo de la **Ingeniería Civil** al sector tecnológico impuls
 - **Testing & QA:** Pruebas funcionales, reporte de bugs, optimización UX/UI
 - **Herramientas:** Git, GitHub, VS Code
 
-- 📫 **¡Hablemos y conectemos!**
+
+### 📫 **¡Hablemos y conectemos!**
 - **LinkedIn:** www.linkedin.com/in/vanessa-g-o
 - **Correo:** vaneorozco8@gmail.com
