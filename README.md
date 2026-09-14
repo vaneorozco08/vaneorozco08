@@ -1,16 +1,19 @@
-## Hi there 👋
+Hola Mi nombre es Vanessa Gallego Orozco
 
-<!--
-**vaneorozco08/vaneorozco08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrolladora Web en Formación | Ex-Ingeniera Civil** 
 
-Here are some ideas to get you started:
+Transicioné del mundo de la **Ingeniería Civil** al sector tecnológico impulsada por mi pasión por los lenguajes de programación y la creación de soluciones digitales. Actualmente estoy cursando el bootcamp de **Desarrollo Web en TripleTen**, fortaleciendo mis habilidades prácticas en tecnologías frontend y backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mí
+- 🔄 **Transición de carrera:** Aplico la lógica, el pensamiento analítico y la resolución de problemas estructurados aprendidos en la ingeniería civil al desarrollo de software.
+- 🧪 **Experiencia en QA:** Trabajé en una empresa de tecnología realizando pruebas y aseguramiento de calidad (QA) en sitios web, enfocado en optimizar la interactividad, la experiencia de usuario y la usabilidad.
+- 🎯 **Objetivo:** Busco mi primera oportunidad laboral en el sector Tech para aportar mis conocimientos, seguir aprendiendo y colaborar en proyectos con impacto real.
+
+### 🛠️ Tecnologías y Herramientas
+- **Desarrollo Web:** HTML5, CSS3, JavaScript (ES6+)
+- **Testing & QA:** Pruebas funcionales, reporte de bugs, optimización UX/UI
+- **Herramientas:** Git, GitHub, VS Code
+
+- 📫 **¡Hablemos y conectemos!**
+- **LinkedIn:** www.linkedin.com/in/vanessa-g-o
+- **Correo:** vaneorozco8@gmail.com
